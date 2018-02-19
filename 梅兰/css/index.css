@@ -131,7 +131,7 @@
 	background: url(../images/icon_jct.png) center no-repeat;
 }
 .banner-r-w {
-	width: 160px;
+	width: 165px;
 	margin-right: 5px;
 	line-height: 20px;
 }
@@ -173,4 +173,279 @@
 
 .proTitle {
 	height: 36px;
+	line-height: 36px;
+	margin-top: 10px;
+	background-color: #ECF1F7;
+	text-indent: 20px;
+	border-top: 2px solid #C3D7E4;
+}
+
+.build {
+	height: 346px;
+	margin-top: 10px;
+}
+.build-l {
+	width: 727px;
+	height: 344px;
+	border: 1px solid #D8D8D8;
+}
+.pro-info {
+	width: 324px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 26px;
+    float: left;
+    margin-bottom: 10px;
+}
+.pro-info-l {
+	width: 99px;
+    height: 150px;
+}
+.img-product01 {
+	width: 97px;
+	height: 100px;
+	border: 1px solid #CACACA;
+	text-align: center;
+	line-height: 97px;
+}
+.img-buy {
+	margin-top: 15px;
+}
+.pro-info-r {
+	width: 215px;
+	height: 150;
+}
+.build-name {
+	font-size: 16px;
+	margin: 5px 0;
+}
+.description {
+	margin-top: 10px;
+	color: #863E01;
+}
+.price {
+	margin-top: 25px;
+	font-size: 15px;
+	color: red;
+}
+.price-old {
+	font-size: 14px;
+	color: #000;
+	text-decoration: line-through;
+}
+.onsale {
+	margin-top: 25px;
+}
+.onsale span {
+	color: red;
+}
+
+
+
+.build-r {
+	width: 228px;
+	height: 344px;
+	border: 1px solid #DDD;
+}
+.bulid-message {
+	height: 28px;
+	border-bottom: 1px solid #DDD;
+}
+.bulid-message h4 {
+	font-weight: 400;
+	line-height: 28px;
+	text-indent: 15px;
+	font-size: 13px;
+}
+.build-r ul {
+	margin-top: 15px;
+}
+.build-r ul li {
+	height: 24px;
+	line-height: 24px;
+	text-indent: 25px;
+	background: url(../images/bg-right-li.png) 10px center no-repeat;	
+}
+
+
+/*儿童安全座椅*/
+.childSeat {
+	width: 970px;
+	height: 327px;
+}
+.childSeat {
+	margin-top: 10px;
+}
+.seat-l {
+	width: 724px;
+	height: 327px;
+}
+.seat-l-t {
+	
+	height: 23px;
+	line-height: 23px;
+	border-bottom: 2px solid #00B0E7;
+    background: url(../images/img-jiekou.png) no-repeat;
+    text-align: right;
+}
+.seat-l-t a {
+	color: #1A66C4;
+	font-weight: 700;
+}
+.seat-l-b {
+	height: 301px;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+.seat-info {
+	width: 163px;
+	height: 291px;
+	padding-top: 5px;
+	margin-left: 14px;
+	float: left;
+}
+.seat-pic {
+	width: 163px;
+	height: 170px;
+}
+.seat-name {
+	text-align: center;
+	font-size: 14px;
+	line-height: 20px;
+	margin-top: 10px;
+	color: #000;
+}
+.seat-age {
+	text-align: center;
+	font-size: 12px;
+	color: #ccc;
+	line-height: 25px;
+}
+.seat-old {
+	text-align: center;
+	font-size: 12px;
+	color: #ccc;
+	line-height: 25px;
+}
+.seat-old span {
+	text-decoration: line-through;
+}
+.seat-now {
+	text-align: center;
+	font-size: 12px;
+	color: #ccc;
+	line-height: 25px;
+}
+.seat-now span {
+	color: red;
+}
+.seat-r {
+	width: 220px;
+	height: 327px;
+}
+.seat-r-t {
+	width: 218px;
+	height: 128px;
+	border: 1px solid #ccc;
+}
+.seat-r-b {
+	width: 218px;
+	height: 183px;
+	margin-top: 14px;
+}
+
+/*工艺美术品*/
+.artCraft {
+	width: 970px;
+	height: 346px;
+	margin-top: 10px;
+}
+.artCraft-l {
+	width: 727px;
+	height: 344px;
+	border: 1px solid #ccc;
+}
+.artCraft-r {
+	width: 228px;
+	height: 344px;
+}
+.artCraft-r h4 {
+    line-height: 28px;
+    text-indent: 15px;
+    font-size: 13px;
+    border-bottom: 1px solid #ccc;
+}
+.artCraft-r ul li {
+	height: 24px;
+	line-height: 24px;
+}
+.artCraft-r ul li a {
+	color: #000;
+}
+.artCraft-r ul li a span {
+	color: #ccc;
+}
+.artCraft-r ul .first-li {
+	height: 82px;
+	/*line-height: 24px;*/
+	margin-top: 10px;
+}
+
+
+
+/*友情链接*/
+.friendLink {
+	height: 92px;
+	border-top: 1px solid #DDD;
+	margin-top: 15px;
+}
+.friendLink-info {
+	height: 65px;
+	border-top: 6px solid #fbfbfb;
+	border-bottom: 4px solid #fbfbfb;
+	padding-top: 15px;
+}
+.friendLink-l {
+	width: 70px;
+	line-height: 20px;
+}
+.friendLink-r {
+	width: 900px;
+}
+.friendLink-r ul li {
+	float: left;
+	line-height: 20px;
+	margin-right: 8px;
+}
+.footer {
+	height: 91px;
+	border-top: 2px solid #0A7EC3;
+	margin-top: 10px;
+}
+.footer-t {
+	width: 732px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.footer-t ul li {
+	float: left;
+	font-size: 12px;
+	line-height: 25px;
+}
+.footer-t ul .string {
+	padding: 0 5px;
+	color: #ccc;
+	font-weight: 700;
+}
+.footer-t ul li a {
+	color: #000;
+}
+.footer-b {
+	width: 970px;
+	margin-top: 5px;
+	position: relative;
+	left: 50%;
+}
+.footer-b ul li {
+	float: left;
 }
